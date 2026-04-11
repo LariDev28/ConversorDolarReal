@@ -37,6 +37,7 @@ NetBeans
 🚀 Como Executar
 
 🔹 Pré-requisitos
+
 Java instalado (JDK)
 IDE ou terminal configurado
 
