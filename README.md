@@ -82,8 +82,11 @@ Interação com o usuário via terminal
 💡 Melhorias Futuras
 
 Tratamento de erros (ex: entrada inválida)
+
 Interface gráfica (GUI)
+
 Atualização automática da cotação via API
+
 Suporte a outras moedas
 
 📌 Conclusão
