@@ -4,8 +4,6 @@
 
 Este projeto consiste em um conversor de moedas desenvolvido em Java, capaz de realizar a conversão entre Real (BRL) e Dólar (USD) com base na cotação informada pelo usuário.
 
-A aplicação funciona via terminal e permite ao usuário escolher o tipo de conversão desejada, tornando o processo simples e interativo.
-
 Este projeto surgiu de um exercício do curso de Introdução à Programação da EBAC. Inicialmente desenvolvido em pseudocódigo, decidi reescrevê-lo em Java para praticar e reforçar os conceitos que venho aprendendo na faculdade.
 
 🎯 Objetivo do Projeto
