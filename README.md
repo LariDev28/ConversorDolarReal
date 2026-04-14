@@ -26,7 +26,7 @@ Entrada da cotação atual do dólar
 
 Validação de opção válida
 
-🧠 Arquitetura do Sistema
+🏗️ Arquitetura do Sistema
 
 A ideia deste projeto foi explorar a lógica fundamental da programação através de uma estrutura procedural. O código funciona como um roteiro linear: ele recebe os dados via console, processa as conversões de moeda (Real/Dólar) usando cálculos matemáticos simples e entrega o resultado ao usuário. Foquei em construir um fluxo de execução claro, onde o uso de estruturas condicionais (if/else) garante que o sistema responda corretamente a cada escolha, mantendo o aprendizado sobre o controle básico de uma aplicação.
 
